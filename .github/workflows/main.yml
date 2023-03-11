@@ -23,5 +23,5 @@ jobs:
           aws_access_key_id: AKIA23EFGTTXYBJKCD53
           aws_secret_access_key: 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
           aws_region: ap-south-1
-          function_name: testnode
+          function_name: testnode2
           zip_file: bundle.zip
